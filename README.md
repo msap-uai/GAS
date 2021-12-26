@@ -6,3 +6,5 @@ https://developers.google.com/apps-script/overview
 # Recursos
 
 # Ejemplos
+https://github.com/googleworkspace/apps-script-samples
+https://github.com/googleworkspace
